@@ -6,7 +6,7 @@
   "author": "Rafael da Silva Rocha <rocha.rafaelsilva@gmail.com>",
   "license": "MIT",
   "module": "./index.js",
-  "main": "./dist/wavefile.cjs.js",
+  "main": "./dist/wavefile.js",
   "browser": "./dist/wavefile.min.js",
   "bin": "./bin/wavefile.js",
   "engines": {
